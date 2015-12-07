@@ -1,0 +1,3 @@
+[submodule "viinyDragger"]
+	path = viinyDragger
+	url = https://github.com/giraysam/viinyDragger.git
