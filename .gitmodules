@@ -1,6 +1,3 @@
-[submodule "viinyDragger"]
-	path = viinyDragger
-	url = https://github.com/giraysam/viinyDragger.git
 [submodule "viiny-dragger"]
 	path = viiny-dragger
 	url = https://github.com/giraysam/viiny-dragger.git
